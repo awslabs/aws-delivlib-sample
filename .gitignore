@@ -3,6 +3,8 @@
 *.d.ts
 .jsii
 dist/
+!create-build-manifest.js
+
 
 # Created by https://www.gitignore.io/api/node
 
