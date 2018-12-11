@@ -1,0 +1,9 @@
+*
+
+!*.js
+!.jsii
+
+
+
+# Exclude jsii outdir
+dist

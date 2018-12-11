@@ -1,0 +1,47 @@
+{
+  "name": "jsii-sample",
+  "version": "1.1.1",
+  "description": "Updated to 1.1.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "jsii",
+    "watch": "jsii -w",
+    "package": "jsii-pacmak",
+    "pipeline-update": "cdk -a 'node pipeline.cdk.js' deploy",
+    "pipeline-diff": "cdk -a 'node pipeline.cdk.js' diff"
+  },
+  "jsii": {
+    "outdir": "dist",
+    "targets": {
+      "java": {
+        "package": "com.github.eladb.jsiisample",
+        "maven": {
+          "groupId": "com.github.eladb",
+          "artifactId": "jsii-sample"
+        }
+      },
+      "dotnet": {
+        "namespace": "Eladb.JsiiSample",
+        "packageId": "Eladb.JsiiSample"
+      },
+      "sphinx": {}
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git-codecommit.us-east-1.amazonaws.com/v1/repos/jsii-sample"
+  },
+  "author": {
+    "name": "Amazon Web Services"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@aws-cdk/aws-codebuild": "^0.8.2",
+    "@aws-cdk/aws-codecommit": "^0.8.2",
+    "@aws-cdk/cdk": "^0.8.2",
+    "@types/node": "^10.9.4",
+    "jsii": "0.7.1",
+    "jsii-pacmak": "0.7.1"
+  }
+}
