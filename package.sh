@@ -5,8 +5,9 @@ set -euo pipefail
 rm -fr dist
 mkdir dist
 
-# create build.json
+# build.json and changelog
 node ./create-build-manifest.js > dist/build.json
+cp CHANGELOG.md dist/
 
 # use jsii to produce packages in all supported languages under dist/
 jsii-pacmak
