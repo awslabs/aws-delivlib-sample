@@ -1,7 +1,7 @@
 {
   "name": "jsii-sample",
-  "version": "1.1.1",
-  "description": "Updated to 1.1.0",
+  "version": "1.1.2",
+  "description": "Updated to 1.1.2",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
