@@ -24,7 +24,8 @@
         "namespace": "Eladb.JsiiSample",
         "packageId": "Eladb.JsiiSample"
       },
-      "sphinx": {}
+      "sphinx": {},
+      "python": {}
     }
   },
   "repository": {
@@ -36,12 +37,9 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "@aws-cdk/aws-codebuild": "^0.8.2",
-    "@aws-cdk/aws-codecommit": "^0.8.2",
-    "@aws-cdk/cdk": "^0.8.2",
-    "@types/node": "^10.9.4",
-    "jsii": "0.7.1",
-    "jsii-pacmak": "0.7.1",
-    "standard-version": "^4.4.0"
+    "@types/node": "^11.11.4",
+    "jsii": "0.8.0",
+    "jsii-pacmak": "0.8.0",
+    "standard-version": "^5.0.2"
   }
 }
