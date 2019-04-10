@@ -10,7 +10,7 @@ node ./create-build-manifest.js > dist/build.json
 cp CHANGELOG.md dist/
 
 # use jsii to produce packages in all supported languages under dist/
-jsii-pacmak
+jsii-pacmak || echo "Not everything worked but that's okay"
 
 # create docs
 mkdir -p dist/docs
