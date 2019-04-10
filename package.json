@@ -1,6 +1,6 @@
 {
   "name": "jsii-sample",
-  "version": "1.4.8",
+  "version": "1.4.9",
   "description": "hello, world",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
