@@ -9,7 +9,7 @@ phases:
       - npm run build
   post_build:
     commands:
-      - npm run package
+      - echo just pretend we did something!
 artifacts:
   files:
     - "**/*"
