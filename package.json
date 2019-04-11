@@ -1,6 +1,6 @@
 {
   "name": "jsii-sample",
-  "version": "1.4.14",
+  "version": "1.5.0",
   "description": "hello, world",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -37,9 +37,9 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "@types/node": "^11.11.4",
-    "jsii": "0.8.0",
-    "jsii-pacmak": "0.8.0",
+    "@types/node": "^8.10.45",
+    "jsii": "^0.8.0",
+    "jsii-pacmak": "^0.8.0",
     "standard-version": "^5.0.2"
   }
 }
