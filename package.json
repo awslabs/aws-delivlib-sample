@@ -1,6 +1,6 @@
 {
   "name": "jsii-sample",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "hello, world",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -17,12 +17,14 @@
         "package": "com.github.eladb.jsiisample",
         "maven": {
           "groupId": "com.github.eladb",
-          "artifactId": "jsii-sample"
+          "artifactId": "jsii-sample",
+          "versionSuffix": ".TEST"
         }
       },
       "dotnet": {
         "namespace": "Eladb.JsiiSample",
-        "packageId": "Eladb.JsiiSample"
+        "packageId": "Eladb.JsiiSample",
+        "versionSuffix": "-test"
       },
       "sphinx": {},
       "python": {}
@@ -37,9 +39,9 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "@types/node": "^8.10.45",
-    "jsii": "^0.8.0",
-    "jsii-pacmak": "^0.8.0",
-    "standard-version": "^5.0.2"
+    "@types/node": "^8.10.49",
+    "jsii": "^0.13.3",
+    "jsii-pacmak": "^0.13.3",
+    "standard-version": "^6.0.1"
   }
 }
