@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.1](https://git-codecommit.us-east-1.amazonaws.com/v1/repos/jsii-sample/compare/v1.5.0...v1.5.1) (2019-11-10)
+
 ## [1.5.0](https://git-codecommit.us-east-1.amazonaws.com/v1/repos/jsii-sample/compare/v1.4.14...v1.5.0) (2019-04-10)
 
 
