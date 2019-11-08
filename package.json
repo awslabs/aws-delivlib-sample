@@ -26,8 +26,10 @@
         "packageId": "Eladb.JsiiSample",
         "versionSuffix": "-test"
       },
-      "sphinx": {},
-      "python": {}
+      "python": {
+        "distName": "jsii-sample",
+        "module": "jsii_sample"
+      }
     }
   },
   "repository": {
@@ -40,8 +42,8 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/node": "^8.10.49",
-    "jsii": "^0.13.3",
-    "jsii-pacmak": "^0.13.3",
+    "jsii": "^0.20.2",
+    "jsii-pacmak": "^0.20.2",
     "standard-version": "^6.0.1"
   }
 }
