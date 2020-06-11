@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.9](https://git-codecommit.us-east-1.amazonaws.com///compare/v1.5.7...v1.5.9) (2020-06-11)
+
+
+
 ### [1.5.7](https://git-codecommit.us-east-1.amazonaws.com///compare/v1.5.6...v1.5.7) (2020-02-18)
 
 
