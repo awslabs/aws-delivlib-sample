@@ -3,13 +3,13 @@ version: 0.2
 phases:
   install:
     commands:
-      - npm install
+      - yarn install --frozen-lockfile
   build:
     commands:
-      - npm run build
+      - yarn build
   post_build:
     commands:
-      - npm run package
+      - yarn package
 artifacts:
   files:
     - "**/*"
