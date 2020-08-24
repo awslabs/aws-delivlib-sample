@@ -41,7 +41,7 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "@types/node": "^8.10.49",
+    "@types/node": "^10.17.28",
     "jsii": "^1.11.0",
     "jsii-pacmak": "^0.20.2",
     "standard-version": "^6.0.1"
