@@ -2,29 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [1.5.9](https://git-codecommit.us-east-1.amazonaws.com///compare/v1.5.7...v1.5.9) (2020-06-11)
+## [1.5.9](https://git-codecommit.us-east-1.amazonaws.com///compare/v1.5.7...v1.5.9) (2020-06-11)
 
 
 
-### [1.5.7](https://git-codecommit.us-east-1.amazonaws.com///compare/v1.5.6...v1.5.7) (2020-02-18)
+## [1.5.7](https://git-codecommit.us-east-1.amazonaws.com///compare/v1.5.6...v1.5.7) (2020-02-18)
 
 
 
-### [1.5.6](https://git-codecommit.us-east-1.amazonaws.com///compare/v1.5.5...v1.5.6) (2020-02-18)
+## [1.5.6](https://git-codecommit.us-east-1.amazonaws.com///compare/v1.5.5...v1.5.6) (2020-02-18)
 
 
 
-### [1.5.5](https://git-codecommit.us-east-1.amazonaws.com///compare/v1.5.2...v1.5.5) (2020-02-18)
+## [1.5.5](https://git-codecommit.us-east-1.amazonaws.com///compare/v1.5.2...v1.5.5) (2020-02-18)
 
 
 
-### [1.5.2](https://git-codecommit.us-east-1.amazonaws.com///compare/v1.5.0...v1.5.2) (2020-02-18)
+## [1.5.2](https://git-codecommit.us-east-1.amazonaws.com///compare/v1.5.0...v1.5.2) (2020-02-18)
 
 
 
 ## [1.5.1](https://git-codecommit.us-east-1.amazonaws.com/v1/repos/jsii-sample/compare/v1.5.0...v1.5.1) (2019-11-10)
 
-## [1.5.0](https://git-codecommit.us-east-1.amazonaws.com/v1/repos/jsii-sample/compare/v1.4.14...v1.5.0) (2019-04-10)
+# [1.5.0](https://git-codecommit.us-east-1.amazonaws.com/v1/repos/jsii-sample/compare/v1.4.14...v1.5.0) (2019-04-10)
 
 
 ## [1.4.14](https://git-codecommit.us-east-1.amazonaws.com/v1/repos/jsii-sample/compare/v1.4.13...v1.4.14) (2019-04-10)
@@ -112,9 +112,3 @@ All notable changes to this project will be documented in this file. See [standa
 ### Features
 
 * add bump script which uses standard-version ([4d876dd](https://git-codecommit.us-east-1.amazonaws.com/v1/repos/jsii-sample/commits/4d876dd))
-
-
-
-# Change Log
-
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
