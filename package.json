@@ -29,6 +29,9 @@
       "python": {
         "distName": "jsii-sample",
         "module": "jsii_sample"
+      },
+      "go": {
+        "moduleName": "github.com/awslabs/aws-delivlib-sample"
       }
     }
   },
@@ -41,9 +44,9 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "@types/node": "^10.17.28",
-    "jsii": "^1.11.0",
-    "jsii-pacmak": "^1.11.0",
-    "standard-version": "^8.0.1"
+    "@types/node": "^14.14.31",
+    "jsii": "^1.21.0",
+    "jsii-pacmak": "^1.21.0",
+    "standard-version": "^9.1.1"
   }
 }
