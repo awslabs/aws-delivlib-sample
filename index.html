@@ -1,0 +1,52 @@
+<pre>{
+  "name": "jsii-sample",
+  "version": "1.5.9",
+  "description": "hello, world",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "jsii",
+    "watch": "jsii -w",
+    "package": "/bin/bash ./package.sh",
+    "bump": "standard-version"
+  },
+  "jsii": {
+    "outdir": "dist",
+    "targets": {
+      "java": {
+        "package": "com.github.eladb.jsiisample",
+        "maven": {
+          "groupId": "com.github.eladb",
+          "artifactId": "jsii-sample",
+          "versionSuffix": ".TEST"
+        }
+      },
+      "dotnet": {
+        "namespace": "Eladb.JsiiSample",
+        "packageId": "Eladb.JsiiSample",
+        "versionSuffix": "-test"
+      },
+      "python": {
+        "distName": "jsii-sample",
+        "module": "jsii_sample"
+      },
+      "go": {
+        "moduleName": "github.com/awslabs/aws-delivlib-sample"
+      }
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git-codecommit.us-east-1.amazonaws.com/v1/repos/jsii-sample"
+  },
+  "author": {
+    "name": "Amazon Web Services"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "jsii": "^1.21.0",
+    "jsii-pacmak": "^1.21.0",
+    "standard-version": "^9.1.1"
+  }
+}</pre>
