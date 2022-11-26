@@ -48,5 +48,8 @@
     "jsii": "^1.70.0",
     "jsii-pacmak": "^1.70.0",
     "standard-version": "^9.1.1"
+  },
+  "resolutions": {
+    "@xmldom/xmldom": "^0.8.4"
   }
 }
