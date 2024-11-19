@@ -1,5 +1,5 @@
 {
-  "name": "jsii-sample",
+  "name": "jsii-sample2",
   "version": "1.5.12",
   "description": "hello, world",
   "main": "lib/index.js",
@@ -14,21 +14,21 @@
     "outdir": "dist",
     "targets": {
       "java": {
-        "package": "com.github.eladb.jsiisample",
+        "package": "io.github.cdklabs.jsiisample2",
         "maven": {
-          "groupId": "com.github.eladb",
-          "artifactId": "jsii-sample",
+          "groupId": "io.github.cdklabs",
+          "artifactId": "jsii-sample2",
           "versionSuffix": ".TEST"
         }
       },
       "dotnet": {
-        "namespace": "Eladb.JsiiSample",
-        "packageId": "Eladb.JsiiSample",
+        "namespace": "Cdklabs.JsiiSample2",
+        "packageId": "Cdklabs.JsiiSample2",
         "versionSuffix": "-test"
       },
       "python": {
-        "distName": "jsii-sample",
-        "module": "jsii_sample"
+        "distName": "jsii-sample2",
+        "module": "jsii_sample2"
       },
       "go": {
         "moduleName": "github.com/awslabs/aws-delivlib-sample"
