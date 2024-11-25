@@ -51,5 +51,8 @@
   },
   "resolutions": {
     "@xmldom/xmldom": "^0.8.4"
+  },
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.4"
   }
 }
